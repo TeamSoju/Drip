@@ -93,7 +93,7 @@ export default class App extends Component {
           <div className="headerContainer">
           <div className="textContainer">
             <div id="headerImg"></div>
-            <div className="store-name">SOJU STORE</div>
+            <div className="store-name">DRIP</div>
             <p className="slogan">HUNDREDS OF NEW ARRIVALS</p>
             <p className="shipping">Free Shipping and Returns*</p>
           </div>
