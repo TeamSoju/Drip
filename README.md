@@ -12,8 +12,9 @@ Drip is an eCommerence web application developed by 4 software engineers followi
 
 ## Getting Started ##
 1. NPM installations of dependencies
-       ``` npm install 
-       ```
+      ``` 
+      npm install 
+      ```
 3. Build the application ``` npm run build ```
 4. Generate a API token and follow the directions inside ```config.example.js```
     * __Reminder:__ _API TOKEN MUST BE HIDDEN_
