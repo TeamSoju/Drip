@@ -1,4 +1,6 @@
-# SojuStore
+# DripStore
+Drip is an eCommerence web application developed by 4 software engineers following the client's business requirements document. This project is a foray into real development work - building key components of a complex whole and integrating those with the rest of the system. This project was divided into four different components: 
+> Product Overview, Related Products, Questions & Answers, Ratings & Reviews.
 
 
 ******HOW TO START APP**********
