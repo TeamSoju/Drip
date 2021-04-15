@@ -12,7 +12,7 @@ Drip is an eCommerence web application developed by 4 software engineers followi
 
 ## Libraries/Tools ##
 * ReactJS
-      * Material-UI
+  * Material-UI
 * ES6
 * Express
 * Firebase
