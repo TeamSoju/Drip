@@ -3,12 +3,12 @@ Drip is an eCommerence web application developed by 4 software engineers followi
 > Product Overview, Related Products, Questions & Answers, Ratings & Reviews.
 
 ## Table of Contents ##
-* [Libraries/Tools](#libraries "Goto libraries")
+* [Libraries/Tools](#librariestools "Goto librariestools")
 * [Getting Started](#getting-started "Goto getting-started")
-* Product Overview
-* Related Products
-* Questions and Answers
-* Ratings and Reviews
+* [PRoduct Overview](#product-overview "Goto product-overview")
+* [Related Products](#related-products "Goto related-products")
+* [Questions and Answers](#questions-and-answers "Goto questions-and-answers")
+* [Ratings and Reviews](#ratings-and-reviews "Goto ratings-and-reviews")
 
 ## Libraries/Tools ##
 * ReactJS
@@ -37,3 +37,12 @@ Drip is an eCommerence web application developed by 4 software engineers followi
       npm run start 
       ```
 7. Navigate to ```http://localhost:8008```
+
+## Product Overview ##
+Product Overview is a component that guides the user through selecting a specific style and size to add to their cart. It displays star ratings, price/sales price, product's title/description, category, slogan, and image. Below the description, the user can browse through the circular tuhmbnails to select various styles for the product. Below the style selector, there are two dropdown lists that contain size and quantity (_please note: if the quantity is out of stock, size won't show up_). The add cart button is disabled if there is nothing in stock, and if the user does not select a size or quantity the size dropdown will automatically drop down for the user to make a selection. The image gallery displays thumbnails of rows of 7 and is able to navigate the default view with the arrow buttons or clicking a specific thumbnail. When the default image is clicked, another window will pop up of the image with fullscreen view. When clicking it, the image will be zoomed in by 250%, and clicking it again will return it to 100%. 
+
+## Related Products ##
+
+## Questions & Answers ##
+
+## Ratings & Reviews ##
