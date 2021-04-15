@@ -3,7 +3,7 @@ Drip is an eCommerence web application developed by 4 software engineers followi
 > Product Overview, Related Products, Questions & Answers, Ratings & Reviews.
 
 ## Table of Contents ##
-* [Libraries/Tools](#libraries/tools "Goto libraries/tools")
+* [Libraries/Tools](#libraries "Goto libraries")
 * [Getting Started](#getting-started "Goto getting-started")
 * Product Overview
 * Related Products
